@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+One-paged description for Aurura Solutions, connectivity for the Open Web.
 
-You can use the [editor on GitHub](https://github.com/HaojiXu/aurura-solutions-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Philosophy
+At the heart of Aurura Solutions is the responsibility of an open web. As the world came to 21st century and more mobile-oriented, internet services became ever growingly centralized. This led to various problems, including the lack of control of privacy, inconvenience for users to travel between services, companies holding the rights of user-created data, and much more. Legislations began to deal with it, sure. But citizens, consumers and developers could also make an impact on these gargantual multi-nation cooperations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Services
+Aurura Solutions provide the following services at this moment:
+- Transparent cloud storage
+- RSS services for the info people love
+- Low cost web hosting services
+- Multiple internet protocols
+- Nodes of decentralized projects (eg. Mastedon, ZeroNet, etc.)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaojiXu/aurura-solutions-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Hosting Services
+If you believe your project could help the development of a more open web, contact me at haoji@aurura.net and I will contact you soon.
