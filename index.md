@@ -12,4 +12,13 @@ Aurura Solutions provide the following services at this moment:
 - Nodes of decentralized projects (eg. Mastedon, ZeroNet, etc.)
 
 ## Hosting Services
-If you believe your project could help the development of a more open web, contact me at haoji@aurura.net and I will contact you soon.
+If you believe your project could help the development of a more open web, contact me at haoji.xu@aurura.net and I will contact you soon.
+
+## Contact
+If you have any problem regarding our services or have a complaint, please do not hesitate to contact us:
+* Webmaster: haoji.xu@aurura.net
+* Abuse: abuse@aurura.net
+* NOC: noc@aurura.net
+Usually, you could expect a reply in 2-3 workdays.
+
+> Rule #10: Let's all have fun and play together!
