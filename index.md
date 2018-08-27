@@ -21,4 +21,5 @@ If you have any problem regarding our services or have a complaint, please do no
 * NOC: noc@aurura.net
 Usually, you could expect a reply in 2-3 workdays.
 
+## Last but not the lease
 > Rule #10: Let's all have fun and play together!
